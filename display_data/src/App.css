@@ -1,0 +1,68 @@
+
+.wel  {
+  text-align: center;
+}
+body {
+  background-color: black;
+}
+.name {
+  color: blue;
+  font-size: 25px;
+  font-style: italic;
+  margin-left: 50px;
+}
+
+.regno {
+  color: green;
+  font-size: 25px;
+  font-style: italic;
+  margin-left: 48px;
+}
+
+.phno {
+  color: red;
+  font-size: 25px;
+  font-style: italic;
+  margin-left: 9px;
+} 
+
+.address {
+  color: yellow;
+  font-size: 25px;
+  font-style: italic;
+  margin-left: 33px;
+}
+
+.input[type=text] {
+  width: 50;
+  padding: 5px 10px;
+  margin-left: 10px;
+}
+
+.button {
+  text-align: center;
+  margin-left: 100px;
+  width: 10%;
+  height: 1%;
+}
+
+.welcome  {
+  background-color:gainsboro;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 400px;
+  margin-right: 400px;
+  border-radius: 700px;
+}
+
+.ans {
+  background-color: gainsboro;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 400px;
+  margin-right: 400px;
+  border-radius: 500px;
+}
+
+
